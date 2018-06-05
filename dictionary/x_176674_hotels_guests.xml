@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_user" label="Guests" max_length="40" name="x_176674_hotels_guests" type="collection">
+        <element label="MemberShip Number" max_length="20" name="membership_number" type="string"/>
+    </element>
+</database>

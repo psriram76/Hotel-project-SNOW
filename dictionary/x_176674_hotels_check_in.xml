@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Check-In" max_length="40" name="x_176674_hotels_check_in" type="collection">
+        <element label="Comments" max_length="500" name="comments" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+    </element>
+</database>

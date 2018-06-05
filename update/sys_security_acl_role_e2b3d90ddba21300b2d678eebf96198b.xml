@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>sriram</sys_created_by>
+        <sys_created_on>2018-06-05 13:41:42</sys_created_on>
+        <sys_id>e2b3d90ddba21300b2d678eebf96198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_176674_hotels_guests.x_176674_hotels.guests_user</sys_name>
+        <sys_package display_value="Hotels" source="x_176674_hotels">2beec549dba21300b2d678eebf961963</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotels">2beec549dba21300b2d678eebf961963</sys_scope>
+        <sys_security_acl display_value="x_176674_hotels_guests">aab3d90ddba21300b2d678eebf961988</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e2b3d90ddba21300b2d678eebf96198b</sys_update_name>
+        <sys_updated_by>sriram</sys_updated_by>
+        <sys_updated_on>2018-06-05 13:41:42</sys_updated_on>
+        <sys_user_role display_value="x_176674_hotels.guests_user" name="x_176674_hotels.guests_user">5eb3590ddba21300b2d678eebf9619c2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
